@@ -1,0 +1,7 @@
+C:\Users\kim45\Desktop\C#\TextRPG\bin\Debug\TextRPG.exe.config
+C:\Users\kim45\Desktop\C#\TextRPG\bin\Debug\TextRPG.exe
+C:\Users\kim45\Desktop\C#\TextRPG\bin\Debug\TextRPG.pdb
+C:\Users\kim45\Desktop\C#\TextRPG\obj\Debug\TextRPG.csprojAssemblyReference.cache
+C:\Users\kim45\Desktop\C#\TextRPG\obj\Debug\TextRPG.csproj.CoreCompileInputs.cache
+C:\Users\kim45\Desktop\C#\TextRPG\obj\Debug\TextRPG.exe
+C:\Users\kim45\Desktop\C#\TextRPG\obj\Debug\TextRPG.pdb
